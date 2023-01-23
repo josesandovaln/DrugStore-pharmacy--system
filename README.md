@@ -8,11 +8,11 @@ Aplicação foi feita na linguagem Java e com seu design feito plea linguagem na
 
 ## Layout
 
-![Login]()
+![Login](https://github.com/josesandovaln/DrugStore-pharmacy--system/blob/main/img/farmacia_login.jpg)
 
-![Dashboard]()
+![Dashboard](https://github.com/josesandovaln/DrugStore-pharmacy--system/blob/main/img/farmacia_dashboard.jpg)
 
-![Cad produto]()
+![Cad produto](https://github.com/josesandovaln/DrugStore-pharmacy--system/blob/main/img/farmacia_produto.jpg)
 
 ## Tecnologias utilizadas
 
